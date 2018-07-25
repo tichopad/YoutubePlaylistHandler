@@ -1,0 +1,6 @@
+{
+    "clientId": "INSERT CLIENT ID",
+    "clientSecret": "INSERT CLIENT SECRET",
+    "redirectUrl": "INSERT REDIRECT URL",
+    "playlistId": "OPTIONALLY INSERT DEFAULT PLAYLIST ID"
+}
