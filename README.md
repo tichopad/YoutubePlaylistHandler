@@ -1,4 +1,4 @@
-# FAH Youtube
+# YoutubePlaylistHandler
 
 ## Description
 
